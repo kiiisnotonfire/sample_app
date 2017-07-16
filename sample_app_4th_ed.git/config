@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://bitbucket.org/railstutorial/sample_app_4th_ed.git
+	fetch = +refs/*:refs/*
+	mirror = true
